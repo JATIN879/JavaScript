@@ -6,6 +6,8 @@
 //     courseInstructor : "Hitesh chaudhry"
 // }
 
+
+Destructuring Syntax
 // const {price : p} = course
 // console.log(p);
 
